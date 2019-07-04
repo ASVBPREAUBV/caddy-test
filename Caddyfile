@@ -1,0 +1,3 @@
+my.domain.com {
+	proxy / localhost:1023
+}
